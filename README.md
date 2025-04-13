@@ -30,9 +30,11 @@ To run the Smart EDA Dashboard locally, follow these steps:
 
 
 **2.Navigate to the project directory:**
+
   cd eda-dashboard
   
 **3. Create a virtual environment (optional but recommended):**
+
   python3 -m venv venv
   
   
