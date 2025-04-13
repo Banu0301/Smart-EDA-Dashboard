@@ -36,7 +36,7 @@ To run the Smart EDA Dashboard locally, follow these steps:
   python3 -m venv venv
   
   
-** 4. Activate the virtual environment:**
+**4.  Activate the virtual environment:**
 
     On Windows:
     .\venv\Scripts\activate
